@@ -98,6 +98,7 @@ No Windows PowerShell:
 - `RELATORIO.md`: relatório da atividade
 - `.vscode/tasks.json`: tarefa para compilar pelo VS Code
 
-## Autor
+## Autores
 
-Lucas Pinheiro
+- Lucas Gabriel Pinheiro dos Santos
+- Rafael Moreira Rosa
